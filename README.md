@@ -1,16 +1,12 @@
-# dashboard_ui
+# Dashboard UI
 
-A new Flutter project.
+A Dashboard UI app made with Flutter. It is open-source.
 
-## Getting Started
+## There Is A Video Explaining It
 
-This project is a starting point for a Flutter application.
+Link to the YouTube video on how to make the Dashboard from ZERO to HERO!
 
-A few resources to get you started if this is your first Flutter project:
+Link: Not uploaded!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some Screenshots
